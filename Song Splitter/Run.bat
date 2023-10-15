@@ -1,0 +1,2 @@
+python ./Splitter.py
+pause
